@@ -11,3 +11,14 @@ namespace AltBeaconOrg.BoundBeacon.Distance {
 		}
 	}
 }
+
+namespace AltBeaconOrg.BoundBeacon.Service.Scanner
+{
+	public partial class ScanFilterUtils
+	{
+		public partial class ScanFilterData
+		{
+
+		}
+	}
+}
